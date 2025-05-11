@@ -1,0 +1,2 @@
+# Lotterysystem
+-basic smart contract
